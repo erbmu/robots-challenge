@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /sUsPiC1oU3/
+Disallow: /flag.txt/
 
